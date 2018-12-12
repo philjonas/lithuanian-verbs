@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+typings
+*.log
+npm-debug.log*
+.sass-cache
+js-build
+dist
+*.swp
+component-styles
+component-templates
+.vscode

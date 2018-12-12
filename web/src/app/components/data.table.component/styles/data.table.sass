@@ -1,0 +1,49 @@
+$borderStyle: 1px solid black
+    
+.container
+    position: relative
+    top: 0
+    left: 0
+    height: 500px
+    width: 700px
+    overflow: scroll
+
+.col
+    min-width: 150px
+    text-align: center
+    box-sizing: border-box
+
+.sticky-horizontal
+    position: sticky
+    left: 0
+    z-index: 1
+    background-color: white
+    border-left: $borderStyle
+    border-right: $borderStyle
+
+.sticky-vertical-simple, .sticky-vertical
+    position: sticky
+    top: 0
+    background-color: white
+    z-index: 2
+
+.sticky-vertical
+    border-top: $borderStyle
+    border-bottom: $borderStyle
+
+.corner
+    position: sticky
+    top: 0
+    left: 0
+    background-color: white
+    border-left: $borderStyle
+    border-top: $borderStyle
+    z-index: 3
+
+.gray
+    background-color: lightgray !important
+.grayer
+    background-color: darkgray !important
+
+.row-fix
+    float: left

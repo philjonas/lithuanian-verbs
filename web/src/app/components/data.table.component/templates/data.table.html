@@ -1,0 +1,18 @@
+<div *ngIf="data" class="container">
+    <div class="flex full-width sticky-vertical-simple">
+        <div class="col corner"></div>
+        <div *ngFor="let col of columns; let even = even" class="col sticky-vertical" [ngClass]="{'gray': even}"
+            [innerHTML]="col"></div>
+    </div>
+
+    <div *ngFor="let row of data; let evenRow = even; let index = index" class="flex row-fix">
+        <div class="col sticky-horizontal" [innerHTML]="index + 1" [ngClass]="{'gray': evenRow}"></div>
+        <div *ngFor="let column of columns; let evenCol = even" class="col" [ngClass]="{'gray': evenRow || evenCol, 
+                    'grayer': evenRow && evenCol}"
+            [innerHTML]="row[column]">
+        </div>
+    </div>
+</div>
+
+<p>Source: book <a href="https://www.goodreads.com/book/show/18625986-365-lithuanian-verbs" target="_blank">"365
+        Lithuanian verbs"</a></p>

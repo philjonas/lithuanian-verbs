@@ -1,0 +1,2702 @@
+[
+    {
+        "verbId": 1,
+        "verb": "abejoti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 1,
+        "verb": "abejoti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 2,
+        "verb": "aiškinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 2,
+        "verb": "aiškinti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 3,
+        "verb": "apsistoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 4,
+        "verb": "atleisti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 4,
+        "verb": "atleisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 4,
+        "verb": "atleisti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 5,
+        "verb": "atostogauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 6,
+        "verb": "atrodyti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 7,
+        "verb": "atsakyti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 8,
+        "verb": "atsiliepti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 9,
+        "verb": "atsiminti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 10,
+        "verb": "atsiprašyti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 10,
+        "verb": "atsiprašyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 10,
+        "verb": "atsiprašyti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 11,
+        "verb": "atsisakyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 12,
+        "verb": "auginti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 13,
+        "verb": "augti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 14,
+        "verb": "auklėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 15,
+        "verb": "autis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 15,
+        "verb": "autis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 16,
+        "verb": "baigti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 17,
+        "verb": "baigtis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 18,
+        "verb": "bandyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 19,
+        "verb": "bėgioti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 20,
+        "verb": "bėgti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 21,
+        "verb": "bijoti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 21,
+        "verb": "bijoti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 22,
+        "verb": "bučiuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 23,
+        "verb": "bučiuotis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 24,
+        "verb": "būti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 25,
+        "verb": "čiuožinėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 26,
+        "verb": "dainuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 27,
+        "verb": "dalyvauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 28,
+        "verb": "daryti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 29,
+        "verb": "dažyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 30,
+        "verb": "dažytis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 31,
+        "verb": "degti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 32,
+        "verb": "dėkoti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 33,
+        "verb": "dėstyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 34,
+        "verb": "dėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 34,
+        "verb": "dėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 35,
+        "verb": "dėvėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 35,
+        "verb": "dėvėti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 36,
+        "verb": "didėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 37,
+        "verb": "dirbti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 38,
+        "verb": "domėtis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 39,
+        "verb": "dovanoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 40,
+        "verb": "draugauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 41,
+        "verb": "drausti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 41,
+        "verb": "drausti",
+        "case": "genitive",
+        "preposition": "nuo"
+    },
+    {
+        "verbId": 42,
+        "verb": "draustis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 43,
+        "verb": "duoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 43,
+        "verb": "duoti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 44,
+        "verb": "džiaugtis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 45,
+        "verb": "džiauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 46,
+        "verb": "džiovinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 47,
+        "verb": "džiūti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 48,
+        "verb": "eiti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 49,
+        "verb": "ėsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 50,
+        "verb": "galėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 51,
+        "verb": "galioti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 52,
+        "verb": "galvoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 53,
+        "verb": "gaminti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 54,
+        "verb": "gauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 55,
+        "verb": "gerti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 55,
+        "verb": "gerti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 56,
+        "verb": "gesinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 57,
+        "verb": "gydyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 57,
+        "verb": "gydyti",
+        "case": "genitive",
+        "preposition": "nuo"
+    },
+    {
+        "verbId": 58,
+        "verb": "gimdyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 59,
+        "verb": "gimti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 60,
+        "verb": "ginti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 61,
+        "verb": "girdėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 61,
+        "verb": "girdėti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 62,
+        "verb": "gyventi",
+        "case": "accusative",
+        "preposition": "pas"
+    },
+    {
+        "verbId": 63,
+        "verb": "grąžinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 64,
+        "verb": "griauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 65,
+        "verb": "griūti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 66,
+        "verb": "grįžti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 67,
+        "verb": "groti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 68,
+        "verb": "gulėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 69,
+        "verb": "gultis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 70,
+        "verb": "ieškoti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 71,
+        "verb": "įgalioti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 72,
+        "verb": "ilsėtis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 73,
+        "verb": "importuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 74,
+        "verb": "imti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 74,
+        "verb": "imti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 75,
+        "verb": "informuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 75,
+        "verb": "informuoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 76,
+        "verb": "išmokti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 77,
+        "verb": "įžeisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 78,
+        "verb": "jaudintis",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 79,
+        "verb": "jausti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 80,
+        "verb": "jaustis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 81,
+        "verb": "jodinėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 82,
+        "verb": "joti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 83,
+        "verb": "judėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 84,
+        "verb": "jungti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 85,
+        "verb": "juokauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 86,
+        "verb": "juoktis",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 87,
+        "verb": "kabinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 88,
+        "verb": "kainuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 89,
+        "verb": "kalbėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 90,
+        "verb": "kalbėtis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 91,
+        "verb": "kalti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 92,
+        "verb": "kartoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 93,
+        "verb": "kasti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 94,
+        "verb": "kąsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 95,
+        "verb": "keisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 95,
+        "verb": "keisti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 96,
+        "verb": "keistis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 96,
+        "verb": "keistis",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 96,
+        "verb": "keistis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 97,
+        "verb": "keliauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 98,
+        "verb": "kelti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 99,
+        "verb": "keltis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 100,
+        "verb": "kepti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 101,
+        "verb": "kirpti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 102,
+        "verb": "klausyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 103,
+        "verb": "klausytis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 104,
+        "verb": "klausti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 104,
+        "verb": "klausti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 105,
+        "verb": "klijuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 106,
+        "verb": "kloti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 107,
+        "verb": "kosėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 108,
+        "verb": "kovoti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 109,
+        "verb": "kristi",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 110,
+        "verb": "kurti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 111,
+        "verb": "kvėpuoti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 112,
+        "verb": "kviesti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 112,
+        "verb": "kviesti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 113,
+        "verb": "laidoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 114,
+        "verb": "laikyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 114,
+        "verb": "laikyti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 115,
+        "verb": "laikytis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 115,
+        "verb": "laikytis",
+        "case": "genitive",
+        "preposition": "už"
+    },
+    {
+        "verbId": 116,
+        "verb": "laimėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 116,
+        "verb": "laimėti",
+        "case": "accusative",
+        "preposition": "prieš"
+    },
+    {
+        "verbId": 117,
+        "verb": "laistyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 118,
+        "verb": "lankyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 119,
+        "verb": "laukti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 120,
+        "verb": "lauktis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 121,
+        "verb": "leisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 121,
+        "verb": "leisti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 122,
+        "verb": "lenkti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 123,
+        "verb": "lydėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 124,
+        "verb": "liepti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 125,
+        "verb": "liesti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 126,
+        "verb": "lyginti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 127,
+        "verb": "likti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 128,
+        "verb": "linkėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 129,
+        "verb": "lipti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 130,
+        "verb": "lyti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 131,
+        "verb": "liūdėti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 132,
+        "verb": "lupti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 133,
+        "verb": "lūžti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 134,
+        "verb": "maišyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 135,
+        "verb": "maitinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 136,
+        "verb": "manyti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 137,
+        "verb": "matyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 138,
+        "verb": "matuotis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 139,
+        "verb": "maudyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 140,
+        "verb": "maudytis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 141,
+        "verb": "mauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 142,
+        "verb": "mautis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 143,
+        "verb": "mažėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 144,
+        "verb": "medžioti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 145,
+        "verb": "mėgti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 146,
+        "verb": "megzti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 147,
+        "verb": "melstis",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 148,
+        "verb": "meluoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 149,
+        "verb": "mesti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 150,
+        "verb": "miegoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 151,
+        "verb": "mylėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 152,
+        "verb": "mirti",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 153,
+        "verb": "mokėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 153,
+        "verb": "mokėti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 153,
+        "verb": "mokėti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 154,
+        "verb": "mokyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 154,
+        "verb": "mokyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 155,
+        "verb": "mokytis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 155,
+        "verb": "mokytis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 156,
+        "verb": "mušti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 157,
+        "verb": "naudoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 157,
+        "verb": "naudoti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 158,
+        "verb": "naudotis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 159,
+        "verb": "nekęsti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 159,
+        "verb": "nekęsti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 160,
+        "verb": "nervinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 161,
+        "verb": "nervintis",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 162,
+        "verb": "nešioti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 163,
+        "verb": "nešti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 164,
+        "verb": "norėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 165,
+        "verb": "nugalėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 166,
+        "verb": "nuomoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 167,
+        "verb": "nuspręsti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 168,
+        "verb": "nustebti",
+        "case": "genitive",
+        "preposition": "dėl"
+    },
+    {
+        "verbId": 169,
+        "verb": "pabusti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 170,
+        "verb": "padėti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 171,
+        "verb": "pakuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 172,
+        "verb": "pamiršti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 173,
+        "verb": "parduoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 174,
+        "verb": "pasakoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 174,
+        "verb": "pasakoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 175,
+        "verb": "pasiklysti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 176,
+        "verb": "pasirašyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 177,
+        "verb": "pasitikti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 178,
+        "verb": "pastebėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 179,
+        "verb": "patikti",
+        "case": "nominative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 180,
+        "verb": "pavargti",
+        "case": "genitive",
+        "preposition": "nuo"
+    },
+    {
+        "verbId": 181,
+        "verb": "pavydėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 181,
+        "verb": "pavydėti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 182,
+        "verb": "pažeisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 183,
+        "verb": "pažinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 184,
+        "verb": "piešti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 185,
+        "verb": "pietauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 186,
+        "verb": "pykti",
+        "case": "genitive",
+        "preposition": "ant"
+    },
+    {
+        "verbId": 187,
+        "verb": "pyktis",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 188,
+        "verb": "pilti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 188,
+        "verb": "pilti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 189,
+        "verb": "pirkti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 189,
+        "verb": "pirkti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 190,
+        "verb": "pjauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 191,
+        "verb": "planuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 192,
+        "verb": "plaukioti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 193,
+        "verb": "plaukti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 194,
+        "verb": "plauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 195,
+        "verb": "plautis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 196,
+        "verb": "plyšti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 197,
+        "verb": "pradėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 198,
+        "verb": "pranešti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 199,
+        "verb": "prasidėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 200,
+        "verb": "prašyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 200,
+        "verb": "prašyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 201,
+        "verb": "prausti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 202,
+        "verb": "praustis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 203,
+        "verb": "priprasti",
+        "case": "genitive",
+        "preposition": "prie"
+    },
+    {
+        "verbId": 204,
+        "verb": "pristatyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 205,
+        "verb": "privalėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 206,
+        "verb": "puošti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 207,
+        "verb": "puoštis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 208,
+        "verb": "pusryčiauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 209,
+        "verb": "pūsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 210,
+        "verb": "rakinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 211,
+        "verb": "raminti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 212,
+        "verb": "rasti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 213,
+        "verb": "rašyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 214,
+        "verb": "registruoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 215,
+        "verb": "reikalauti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 215,
+        "verb": "reikalauti",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 216,
+        "verb": "reikėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 217,
+        "verb": "reikšti",
+        "case": "nominative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 217,
+        "verb": "reikšti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 217,
+        "verb": "reikšti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 218,
+        "verb": "rėkti",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 218,
+        "verb": "rėkti",
+        "case": "genitive",
+        "preposition": "ant"
+    },
+    {
+        "verbId": 219,
+        "verb": "rengti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 220,
+        "verb": "rengti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 220,
+        "verb": "rengti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 221,
+        "verb": "rengtis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 221,
+        "verb": "rengtis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 222,
+        "verb": "rinkti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 222,
+        "verb": "rinkti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 223,
+        "verb": "rinktis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 224,
+        "verb": "rišti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 225,
+        "verb": "rodyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 226,
+        "verb": "rūkyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 227,
+        "verb": "rungtiniauti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 228,
+        "verb": "ruošti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 228,
+        "verb": "ruošti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 229,
+        "verb": "ruoštis",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 229,
+        "verb": "ruoštis",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 230,
+        "verb": "rūpėti",
+        "case": "nominative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 231,
+        "verb": "rūpintis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 232,
+        "verb": "sakyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 233,
+        "verb": "sapnuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 234,
+        "verb": "saugoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 235,
+        "verb": "sėdėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 236,
+        "verb": "segti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 237,
+        "verb": "sekti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 237,
+        "verb": "sekti",
+        "case": "accusative",
+        "preposition": "paskui"
+    },
+    {
+        "verbId": 237,
+        "verb": "sekti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 238,
+        "verb": "sektis",
+        "case": "nominative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 239,
+        "verb": "senti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 240,
+        "verb": "sėsti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 241,
+        "verb": "siekti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 242,
+        "verb": "sirgti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 243,
+        "verb": "siūlyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 243,
+        "verb": "siūlyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 244,
+        "verb": "siųsti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 244,
+        "verb": "siųsti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 244,
+        "verb": "siųsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 245,
+        "verb": "siūti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 245,
+        "verb": "siūti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 246,
+        "verb": "skaičiuoti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 246,
+        "verb": "skaičiuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 247,
+        "verb": "skaityti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 248,
+        "verb": "skalbti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 249,
+        "verb": "skambinti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 250,
+        "verb": "skaudėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 251,
+        "verb": "skelbti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 252,
+        "verb": "skęsti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 253,
+        "verb": "skirti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 253,
+        "verb": "skirti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 253,
+        "verb": "skirti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 254,
+        "verb": "skirtis",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 254,
+        "verb": "skirtis",
+        "case": "genitive",
+        "preposition": "nuo"
+    },
+    {
+        "verbId": 255,
+        "verb": "skolinti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 255,
+        "verb": "skolinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 256,
+        "verb": "skristi",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 257,
+        "verb": "skubėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 258,
+        "verb": "skusti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 259,
+        "verb": "skųsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 260,
+        "verb": "skųstis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 261,
+        "verb": "slidinėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 262,
+        "verb": "snigti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 263,
+        "verb": "sodinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 264,
+        "verb": "spausdinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 265,
+        "verb": "spėti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 266,
+        "verb": "sportuoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 267,
+        "verb": "spręsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 268,
+        "verb": "stabdyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 269,
+        "verb": "statyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 270,
+        "verb": "stebėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 271,
+        "verb": "stebėtis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 272,
+        "verb": "stoti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 273,
+        "verb": "stotis",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 274,
+        "verb": "stovėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 275,
+        "verb": "studijuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 276,
+        "verb": "sukti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 277,
+        "verb": "suktis",
+        "case": "accusative",
+        "preposition": "aplink"
+    },
+    {
+        "verbId": 278,
+        "verb": "supažindinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 278,
+        "verb": "supažindinti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 279,
+        "verb": "suprasti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 280,
+        "verb": "susipažinti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 281,
+        "verb": "susitikti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 281,
+        "verb": "susitikti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 282,
+        "verb": "sutikti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 282,
+        "verb": "sutikti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 283,
+        "verb": "svajoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 284,
+        "verb": "sveikinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 285,
+        "verb": "sveikintis",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 286,
+        "verb": "sveikti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 287,
+        "verb": "sverti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 288,
+        "verb": "šalti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 289,
+        "verb": "šaukti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 289,
+        "verb": "šaukti",
+        "case": "genitive",
+        "preposition": "ant"
+    },
+    {
+        "verbId": 290,
+        "verb": "šauti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 290,
+        "verb": "šauti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 291,
+        "verb": "šerti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 292,
+        "verb": "šildyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 292,
+        "verb": "šildyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 293,
+        "verb": "šilti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 294,
+        "verb": "šypsotis",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 295,
+        "verb": "šluostyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 296,
+        "verb": "šluoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 297,
+        "verb": "šnekėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 297,
+        "verb": "šnekėti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 298,
+        "verb": "šokti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 298,
+        "verb": "šokti",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 299,
+        "verb": "šukuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 300,
+        "verb": "šukuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 301,
+        "verb": "švęsti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 302,
+        "verb": "šviesti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 303,
+        "verb": "taisyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 304,
+        "verb": "tapyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 305,
+        "verb": "tapti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 306,
+        "verb": "tarti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 307,
+        "verb": "taupyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 307,
+        "verb": "taupyti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 308,
+        "verb": "teigti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 309,
+        "verb": "teirautis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 310,
+        "verb": "teisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 310,
+        "verb": "teisti",
+        "case": "accusative",
+        "preposition": "už"
+    },
+    {
+        "verbId": 311,
+        "verb": "tekėti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 311,
+        "verb": "tekėti",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 311,
+        "verb": "tekėti",
+        "case": "genitive",
+        "preposition": "už"
+    },
+    {
+        "verbId": 312,
+        "verb": "tepti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 312,
+        "verb": "tepti",
+        "case": "genitive",
+        "preposition": "ant"
+    },
+    {
+        "verbId": 312,
+        "verb": "tepti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 313,
+        "verb": "tikėti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 313,
+        "verb": "tikėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 314,
+        "verb": "tikėtis",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 315,
+        "verb": "tikti",
+        "case": "nominative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 316,
+        "verb": "tylėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 317,
+        "verb": "tilpti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 318,
+        "verb": "tingėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 319,
+        "verb": "tirpti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 320,
+        "verb": "tirti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 321,
+        "verb": "triukšmauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 322,
+        "verb": "trukdyti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 323,
+        "verb": "trukti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 324,
+        "verb": "trūkti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 325,
+        "verb": "tuoktis",
+        "case": "instrumental",
+        "preposition": "su"
+    },
+    {
+        "verbId": 326,
+        "verb": "tupėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 327,
+        "verb": "turėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 327,
+        "verb": "turėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 328,
+        "verb": "tvarkyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 329,
+        "verb": "ukininkauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 330,
+        "verb": "uogauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 331,
+        "verb": "užmigti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 332,
+        "verb": "vadinti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 332,
+        "verb": "vadinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 333,
+        "verb": "vadovauti",
+        "case": "dative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 334,
+        "verb": "vaidinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 335,
+        "verb": "vaikščioti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 336,
+        "verb": "vairuoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 337,
+        "verb": "vaišinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 338,
+        "verb": "vakarieniauti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 339,
+        "verb": "valgyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 339,
+        "verb": "valgyti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 340,
+        "verb": "valyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 341,
+        "verb": "vartoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 342,
+        "verb": "važinėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 343,
+        "verb": "važiuoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 344,
+        "verb": "veikti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 345,
+        "verb": "vėluoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 346,
+        "verb": "versti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 346,
+        "verb": "versti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 346,
+        "verb": "versti",
+        "case": "genitive",
+        "preposition": "iš"
+    },
+    {
+        "verbId": 347,
+        "verb": "vertinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 348,
+        "verb": "vesti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 349,
+        "verb": "vežti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 350,
+        "verb": "vykti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 351,
+        "verb": "vilkėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 351,
+        "verb": "vilkėti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 352,
+        "verb": "vilktis",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 352,
+        "verb": "vilktis",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 353,
+        "verb": "virti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 353,
+        "verb": "virti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 354,
+        "verb": "vogti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 355,
+        "verb": "žadėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 356,
+        "verb": "žadinti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 357,
+        "verb": "žaibuoti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 358,
+        "verb": "žaisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 358,
+        "verb": "žaisti",
+        "case": "instrumental",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 359,
+        "verb": "žeisti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 360,
+        "verb": "žydėti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 361,
+        "verb": "žinoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 361,
+        "verb": "žinoti",
+        "case": "accusative",
+        "preposition": "apie"
+    },
+    {
+        "verbId": 362,
+        "verb": "žiūrėti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 362,
+        "verb": "žiūrėti",
+        "case": "accusative",
+        "preposition": "į"
+    },
+    {
+        "verbId": 362,
+        "verb": "žiūrėti",
+        "case": "accusative",
+        "preposition": "pro"
+    },
+    {
+        "verbId": 362,
+        "verb": "žiūrėti",
+        "case": "genitive",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 363,
+        "verb": "žudyti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 364,
+        "verb": "žūti",
+        "case": "no case",
+        "preposition": "no preposition"
+    },
+    {
+        "verbId": 365,
+        "verb": "žvejoti",
+        "case": "accusative",
+        "preposition": "no preposition"
+    }
+]

@@ -1,0 +1,43 @@
+@import src/assets/style/partials/_colors.sass
+
+.container
+	width: 80%
+	padding: 10px
+	box-sizing: border-box
+
+.view-container
+	padding: 10px
+
+.title
+	padding-top: 3px
+
+.app-state
+	box-sizing: border-box
+	height: 27px
+	border: 1px solid $active_1
+	padding: 5px 0px
+	border-bottom-color: $active_1
+	margin-left: 10px
+	width: 134px
+	text-align: center
+	cursor: pointer
+	&:first-of-type
+		margin-left: 50px
+
+.state-line
+	width: 100%
+	height: 1px
+	background-color: $active_1
+	bottom: 0
+	z-index: -1
+
+.app-state-active
+	height: 26px
+	background-color: white
+	border-color: $active_1
+	border-bottom-color: white
+	margin-top: 1px !important
+	color: $active_1
+
+
+

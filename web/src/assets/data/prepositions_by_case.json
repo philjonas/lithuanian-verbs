@@ -1,0 +1,77 @@
+[
+    {
+        "case": "accusative",
+        "preposition": "no preposition",
+        "count": 383
+    },
+    {
+        "case": "accusative",
+        "preposition": "į",
+        "count": 12
+    },
+    {
+        "case": "instrumental",
+        "preposition": "su",
+        "count": 10
+    },
+    {
+        "case": "accusative",
+        "preposition": "apie",
+        "count": 9
+    },
+    {
+        "case": "genitive",
+        "preposition": "dėl",
+        "count": 8
+    },
+    {
+        "case": "genitive",
+        "preposition": "už",
+        "count": 8
+    },
+    {
+        "case": "genitive",
+        "preposition": "iš",
+        "count": 6
+    },
+    {
+        "case": "genitive",
+        "preposition": "ant",
+        "count": 4
+    },
+    {
+        "case": "genitive",
+        "preposition": "nuo",
+        "count": 4
+    },
+    {
+        "case": "accusative",
+        "preposition": "aplink",
+        "count": 1
+    },
+    {
+        "case": "accusative",
+        "preposition": "pas",
+        "count": 1
+    },
+    {
+        "case": "accusative",
+        "preposition": "paskui",
+        "count": 1
+    },
+    {
+        "case": "genitive",
+        "preposition": "prie",
+        "count": 1
+    },
+    {
+        "case": "accusative",
+        "preposition": "prieš",
+        "count": 1
+    },
+    {
+        "case": "accusative",
+        "preposition": "pro",
+        "count": 1
+    }
+]

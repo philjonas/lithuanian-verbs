@@ -1,0 +1,22 @@
+<div class="container flex flex-column">
+
+    <h2>Predicate Case Frequencies in Lithuanian Verbs</h2>
+
+    <div class="relative full-width flex">
+        <button (click)="onSelectedStateChanged(1)" [ngClass]="{'app-state-active': isStateActive(1)}" role="tab" class="app-state">Verb
+            Frequencies</button>
+        <button (click)="onSelectedStateChanged(2)" [ngClass]="{'app-state-active': isStateActive(2)}" role="tab" class="app-state">Source
+            Data</button>
+        <div class="state-line absolute"></div>
+    </div>
+
+    <div class="full-width full-height view-container">
+        <div *ngIf="isStateActive(1)">
+            <tab-charts></tab-charts>
+        </div>
+        <div *ngIf="isStateActive(2)">
+            <tab-table></tab-table>
+        </div>
+    </div>
+
+</div>

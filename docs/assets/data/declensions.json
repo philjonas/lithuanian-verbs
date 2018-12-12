@@ -1,0 +1,26 @@
+[
+    {
+        "case": "accusative",
+        "count": 241
+    },
+    {
+        "case": "no case",
+        "count": 85
+    },
+    {
+        "case": "genitive",
+        "count": 65
+    },
+    {
+        "case": "instrumental",
+        "count": 41
+    },
+    {
+        "case": "dative",
+        "count": 13
+    },
+    {
+        "case": "nominative",
+        "count": 5
+    }
+]

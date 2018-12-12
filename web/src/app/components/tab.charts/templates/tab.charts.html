@@ -1,0 +1,27 @@
+<h4>Declension Frequency</h4>
+<div class="flex row-border">
+    <div class="declension-case">Case</div>
+    <div class="bar-column"></div>
+    <div class="declension-count">Count</div>
+</div>
+<div *ngFor="let bar of appModel.declensions; let index = index" class="flex row-border">
+    <div class="declension-case vertical-center" [innerHTML]="bar?.case"></div>
+    <bar-chart [data]="bar" [name]="'case'" [value]="'count'" [color]="appModel.colors[index]" [maxValue]="appModel.chartsMaxNumber"
+        class="bar-column"></bar-chart>
+    <div class="declension-count vertical-center" [innerHTML]="bar?.count"></div>
+</div>
+
+<h4>Preposition Frequency</h4>
+<div class="flex row-border">
+    <div class="preposition-preposition">Preposition</div>
+    <div class="preposition-case">Case</div>
+    <div class="bar-column"></div>
+    <div class="preposition-count">Count</div>
+</div>
+<div *ngFor="let bar of appModel.prepositionsByCase; let index = index" class="flex row-border">
+    <div class="preposition-preposition vertical-center" [innerHTML]="bar?.preposition"></div>
+    <div class="preposition-case vertical-center" [innerHTML]="bar?.case"></div>
+    <bar-chart [data]="bar" [name]="'preposition'" [value]="'count'" [color]="appModel.colors[index]" [maxValue]="appModel.chartsMaxNumber"
+        class="bar-column"></bar-chart>
+    <div class="preposition-count vertical-center" [innerHTML]="bar?.count"></div>
+</div>
