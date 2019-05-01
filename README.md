@@ -1,3 +1,3 @@
 # Lithuanian verbs
 
-Check site here: https://philjonas.github.io/lithuanian-verbs/
+Online version: https://philjonas.github.io/lithuanian-verbs/
