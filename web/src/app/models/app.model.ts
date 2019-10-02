@@ -1,5 +1,5 @@
 export class AppModel {
-    selectedState: number = 1;
+    selectedState = 1;
 
     declensions: any[];
     prepositionsByCase: any[];
@@ -25,7 +25,7 @@ export class AppModel {
     }
 
     get chartsMaxNumber(): number {
-        if (!this.maxDeclensionNumber || !this.maxPrepositionNumber) return;
+        if (!this.maxDeclensionNumber || !this.maxPrepositionNumber) { return; }
 
         return Math.max(this.maxDeclensionNumber, this.maxPrepositionNumber);
     }
@@ -34,5 +34,5 @@ export class AppModel {
         '#ebf2e7', '#d7e5d0', '#afcca1',
         '#ec8ea4', '#f6c6d1', '#fae3e8',
         '#f00', '#0f0', '#00f',
-        '#f00', '#0f0', '#00f',]
+        '#f00', '#0f0', '#00f', ];
 }

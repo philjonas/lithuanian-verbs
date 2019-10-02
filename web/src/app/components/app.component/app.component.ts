@@ -36,7 +36,7 @@ export class AppComponent {
   }
 
   isStateActive(value: number): boolean {
-    return this.appModel.selectedState == value;
+    return this.appModel.selectedState === value;
   }
 
   onSelectedStateChanged(value: number): void {

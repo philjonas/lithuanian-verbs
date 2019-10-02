@@ -1,12 +1,12 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-    selector: 'data-table',
+    selector: 'app-data-table',
     templateUrl: './templates/data.table.html',
     styleUrls: ['./styles/data.table.sass']
 })
 
-export class DataTable {
+export class DataTableComponent {
 
     @Input()
     data: any[] = [];
